@@ -1,0 +1,7 @@
+{
+    "lightning": {
+        "timeOfDay": "20:00:00",
+        "brightness": 5
+    },
+    "testers": ["Toderowski", "Cyprian108"]
+}
